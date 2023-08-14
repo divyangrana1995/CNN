@@ -1,5 +1,5 @@
 # Objective:
-The objective of this project is to use a dataset of thin blood shear slide images provided by TensorFlow datasets to diagnose if the segmented cell is infected or not.
+The objective of this project is to use a dataset of thin blood smear slide images provided by TensorFlow datasets to diagnose if the segmented cell is infected or not.
 # Method used:
 As the dataset consists of images, it is a computer vision problem. Hence, I am using a Convolution neural network to solve the classification problem. To follow the detailed method, you can view the provided jupyter notebook.
 # Result:
