@@ -10,6 +10,8 @@ The Vision Transformer, or ViT, is a model for image classification that employs
 
 ![](ViT.png) 
 
+https://doi.org/10.48550/arXiv.2010.11929
+
 
 # Result:
 As the available dataset was really small, it was obvious that the performance of the ViT trained on this dataset wouldn't be good. But finetuning a hugging face ViT yielded into an accuracy of around 95%.
