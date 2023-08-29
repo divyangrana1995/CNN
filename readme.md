@@ -1,5 +1,5 @@
 
-# Computer Vision Projects:
+# Computer Vision Projects using TensorFlow:
 This repository consists of various projects that uses different deep learning techniques. The projects are as follows:
 
 
