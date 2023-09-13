@@ -22,4 +22,6 @@ One key technique used in the YOLO models is non-maximum suppression (NMS). NMS 
 
 ![](non-max_suppression.jpg) 
 
+https://doi.org/10.48550/arXiv.1506.02640 
+
 
