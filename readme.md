@@ -8,3 +8,4 @@ This repository consists of various projects that uses different deep learning t
 
     
  3. Using blood smear slide images of segmented cells for malaria detection.
+ 4. PPEs detection using self coded YOLO model.
