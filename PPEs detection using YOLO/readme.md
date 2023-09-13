@@ -20,7 +20,7 @@ One key technique used in the YOLO models is non-maximum suppression (NMS). NMS 
 2. Check IOU > threshold for the selected bounding box. If other bounding boxes matches the condition, they are removed.
 3. Iteration are performed until no more suppression is possible i.e. each object in the image has a single bounding box.
 
-![](non-max_suppression.jpg) 
+![](non-max_suppression_.jpg) 
 
 https://doi.org/10.48550/arXiv.1506.02640 
 
